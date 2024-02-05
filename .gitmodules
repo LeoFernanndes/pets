@@ -1,0 +1,6 @@
+[submodule "pets-node-backend"]
+	path = pets-node-backend
+	url = git@github.com:LeoFernanndes/pets-node-backend.git
+[submodule "pets-react-frontend"]
+	path = pets-react-frontend
+	url = git@github.com:LeoFernanndes/pets-react-frontend.git
